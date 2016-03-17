@@ -1,0 +1,1 @@
+My goals as a developer is to be able manage the architecture, build, and deployment of Ruby Applications. I will need to be proficient in Ruby on Rails, to manage our team and contrubute to the project.

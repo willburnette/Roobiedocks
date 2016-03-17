@@ -1,0 +1,2 @@
+Problem solving
+Basic overall understanding of Ruby on Rails, and a descent grasp on basic laguages it would take to build an app.
